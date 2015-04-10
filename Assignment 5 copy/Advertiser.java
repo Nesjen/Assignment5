@@ -30,16 +30,7 @@ public class Advertiser extends AudioTrack
     
     }
     
-    /**
-     * @Returns title
-     * Return the title of the Advertise.
-     */
-    
-    public String GetAdvertiseTitle()
-    {
-        //title
-        return GetAudioTrack();
-    }
+   
     
     /**
      * 

@@ -17,13 +17,13 @@ public class File extends Media
      */
     public File()
     {
-        HDMake();
+        FileMake();
     }
     
     /**
      * 
      */
-    public void HDMake()
+    public void FileMake()
     {
         //make a file
     }

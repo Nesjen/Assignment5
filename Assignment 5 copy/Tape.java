@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Tape extends Media
+public class Tape extends PhysicalMedia
 {
     //Title of the tape
     //Type of tape (analog/digital)
@@ -26,6 +26,6 @@ public class Tape extends Media
      */
     public void TapeMake()
     {
-        // make a tape
+        MakeTrackList();
     }
 }

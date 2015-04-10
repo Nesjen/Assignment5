@@ -11,7 +11,7 @@ public class Media
     private String title;
     private int durationMins;
     private int durationSecs;
-    private int archiveNumber;
+    private AudioTrack track;
        
     /**
      * Constructor for objects of class Media
@@ -26,7 +26,13 @@ public class Media
      */
     public void MediaGenetics()
     {
-    
+        
     }
-
+    
+    public String getTitle()
+    {
+        return title;
+    }
+    //return duration
+    
 }

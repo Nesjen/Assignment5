@@ -1,11 +1,19 @@
 #BlueJ class context
 comment0.params=
 comment0.target=AudioReg()
-comment0.text=\r\n\ Makes\ a\ Arraylist\ with\ Audiotracks\r\n
+comment0.text=\n\ Makes\ a\ Arraylist\ with\ Audiotracks\n
 comment1.params=
 comment1.target=void\ AudioList()
-comment1.text=\r\n\ \r\n
-comment2.params=
-comment2.target=void\ getAudioList()
-comment2.text=\r\n\ \r\n
-numComments=3
+comment1.text=\n\ \n
+comment2.params=name
+comment2.target=void\ AudioList(java.util.ArrayList)
+comment2.text=\n\ Makes\ ArrayLists\n
+comment3.params=track
+comment3.target=void\ AddTrack(AudioTrack)
+comment3.text=\n\ Adds\ a\ track\ to\ the\ AudioRegistry\n
+comment4.params=
+comment4.target=java.util.ArrayList\ getAudioList()
+comment4.text=\n\ \n
+comment5.params=
+comment5.target=void\ listAllTracks()
+numComments=6

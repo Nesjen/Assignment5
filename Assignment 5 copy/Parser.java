@@ -1,19 +1,19 @@
 
 /**
- * Write a description of class RadioStation here.
+ * Write a description of class Parser here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class RadioStation
+public class Parser
 {
     // instance variables - replace the example below with your own
     private int x;
 
     /**
-     * Constructor for objects of class RadioStation
+     * Constructor for objects of class Parser
      */
-    public RadioStation()
+    public Parser()
     {
         // initialise instance variables
         x = 0;

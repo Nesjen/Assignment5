@@ -1,11 +1,11 @@
-
+import java.util.ArrayList;
 /**
  * Write a description of class CD here.
  * 
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class CD extends Media
+public class CD extends PhysicalMedia
 {
     //Title of the album
     //Name of artist (if the CD is a collection of various artists, use
@@ -16,7 +16,8 @@ public class CD extends Media
     //Tracks (as an ArrayList where the index in the list corresponds to
     //the number of the track on the CD)
     //Archive number
-
+    private ArrayList trackList;
+    
     /**
      * Constructor for objects of class CD
      */
@@ -30,6 +31,6 @@ public class CD extends Media
      */
     public void CDMake()
     {
-        //make a CD
+        MakeTrackList();
     }
 }

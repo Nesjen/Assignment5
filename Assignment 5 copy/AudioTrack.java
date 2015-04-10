@@ -29,15 +29,7 @@ public class AudioTrack
     {
     
     }
-    
-    /**
-     * 
-     */
-    public String GetAudioTrack()
-    {
-        return title;
-    }
-    
+       
     /**
      * 
      */
@@ -46,5 +38,14 @@ public class AudioTrack
         //Duration = Something
         return duration;
     }
+    
+    /**
+     * 
+     */
+    public String getTrackTitle()
+    {
+        return title;
+    }
+    
     
 }
