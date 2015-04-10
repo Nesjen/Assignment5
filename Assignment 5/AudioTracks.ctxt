@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=AudioTracks()
+comment0.text=\n\ Constructor\ for\ objects\ of\ class\ AudioTracks\n
+comment1.params=
+comment1.target=void\ AudioTrack()
+comment1.text=\n\ \n
+comment2.params=
+comment2.target=java.lang.String\ GetAudioTrack()
+comment2.text=\n\ \n
+comment3.params=
+comment3.target=int\ GetTrackDuration()
+comment3.text=\n\ \n
+numComments=4
