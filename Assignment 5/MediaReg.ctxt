@@ -1,11 +1,11 @@
 #BlueJ class context
 comment0.params=
 comment0.target=MediaReg()
-comment0.text=\n\ Makes\ a\ HashMap\ with\ Media\n
+comment0.text=\r\n\ Makes\ a\ HashMap\ with\ Media\r\n
 comment1.params=
 comment1.target=void\ MediaList()
-comment1.text=\n\ \n
+comment1.text=\r\n\ \r\n
 comment2.params=
 comment2.target=void\ GetMediaList()
-comment2.text=\n\ \n
+comment2.text=\r\n\ \r\n
 numComments=3
