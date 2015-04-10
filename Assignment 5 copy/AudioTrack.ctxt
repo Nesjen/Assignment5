@@ -1,14 +1,19 @@
 #BlueJ class context
 comment0.params=
+<<<<<<< HEAD:Assignment 5/AudioTrack.ctxt
 comment0.target=AudioTrack()
 comment0.text=\n\ Constructor\ for\ objects\ of\ class\ AudioTracks\n
+=======
+comment0.target=AudioTracks()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ AudioTracks\r\n
+>>>>>>> origin/master:Assignment 5/AudioTracks.ctxt
 comment1.params=
 comment1.target=void\ AudioTrack()
-comment1.text=\n\ \n
+comment1.text=\r\n\ \r\n
 comment2.params=
 comment2.target=java.lang.String\ GetAudioTrack()
-comment2.text=\n\ \n
+comment2.text=\r\n\ \r\n
 comment3.params=
 comment3.target=int\ GetTrackDuration()
-comment3.text=\n\ \n
+comment3.text=\r\n\ \r\n
 numComments=4
