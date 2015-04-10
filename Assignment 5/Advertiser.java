@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Advertiser extends AudioTracks
+public class Advertiser extends AudioTrack
 {
     //Title of the jingle X
     //Duration            X

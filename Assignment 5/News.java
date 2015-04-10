@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class News extends AudioTracks
+public class News extends AudioTrack
 {
     // Title/heading of the news story
     //News story (a short description of the news)

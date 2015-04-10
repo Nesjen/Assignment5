@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class Music extends AudioTracks
+public class Music extends AudioTrack
 {
     //title (name of song)
     //Duration (mm:ss)

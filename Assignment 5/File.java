@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class HD extends Media
+public class File extends Media
 {
     //Name of HD (ex “Radio Music Archive”, “Radio Jingle Archive” etc)
     //File name (like “Uptown Funk.mp3”)
@@ -15,7 +15,7 @@ public class HD extends Media
     /**
      * Constructor for objects of class HDfile
      */
-    public HD()
+    public File()
     {
         HDMake();
     }

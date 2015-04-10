@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class AudioTracks extends Radio
+public class AudioTrack
 {
     // 
     private String title;
@@ -17,7 +17,7 @@ public class AudioTracks extends Radio
     /**
      * Constructor for objects of class AudioTracks
      */
-    public AudioTracks()
+    public AudioTrack()
     {
         AudioTrack();
     }

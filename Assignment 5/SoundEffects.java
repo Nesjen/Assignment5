@@ -5,7 +5,7 @@
  * @author (your name) 
  * @version (a version number or a date)
  */
-public class SoundEffects extends AudioTracks
+public class SoundEffects extends AudioTrack
 {
     //Title/Name of soundeffect
     //Duration (mm:ss)
