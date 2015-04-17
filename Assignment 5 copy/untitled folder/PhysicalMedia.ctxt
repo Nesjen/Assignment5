@@ -17,4 +17,6 @@ comment4.text=\n\ \n
 comment5.params=
 comment5.target=java.lang.String\ getTitle()
 comment5.text=\n\ \n
-numComments=6
+comment6.params=track
+comment6.target=void\ addTrack(AudioTrack)
+numComments=7
